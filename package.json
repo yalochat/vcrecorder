@@ -1,6 +1,6 @@
 {
   "name": "vcrecorder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "To record your test suite's HTTP interactions and replay them during future test runs for fast.",
   "main": "lib/index.js",
   "scripts": {
