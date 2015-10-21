@@ -1,0 +1,17 @@
+# Node files
+node_modules/
+npm-debug.log
+
+# OSX Files
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+._*
+*/._*
+*/*/._*
+
+# Test
+coverage.*
+
+# Plugin Sublime
+terminal.glue

@@ -1,0 +1,28 @@
+{
+  "name": "vcrecorder",
+  "version": "1.0.0",
+  "description": "To record your test suite's HTTP interactions and replay them during future test runs for fast.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "engines": {
+    "node": ">=0.10.40"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalochat/vcrecorder.git"
+  },
+  "keywords": [
+    "vcr",
+    "http",
+    "test",
+    "mock"
+  ],
+  "author": "Yalo",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/yalochat/vcrecorder/issues"
+  },
+  "homepage": "https://github.com/yalochat/vcrecorder#readme"
+}
