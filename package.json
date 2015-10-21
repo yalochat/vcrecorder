@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/yalochat/vcrecorder#readme",
   "dependencies": {
+    "app-root-path": "^1.0.0",
     "hoek": "^2.16.3",
     "nock": "2.x.x"
   },
