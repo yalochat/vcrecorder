@@ -15,3 +15,6 @@ coverage.*
 
 # Plugin Sublime
 terminal.glue
+
+# VS Code
+.vscode/
